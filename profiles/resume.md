@@ -1,74 +1,98 @@
-# Test resume.md
-Markdown is a lightweight markup language designed to be easy to read and write, while converting seamlessly to HTML for web display. It’s widely used in platforms like GitHub, Reddit, and documentation tools because of its simplicity and portability.
+# Gabriel P. Garcia Jr
+**Software Developer | Cybersecurity Student**
 
-Headings are created using # symbols, where the number of # corresponds to the heading level:
+San Benito, TX  
+LinkedIn: https://www.linkedin.com/in/gabriel-garcia-tech  
+Portfolio: https://gabriel-tech-code.github.io  
 
-# Heading 1
-## Heading 2
-### Heading 3
-Copy
-Alternatively, === and --- underlines can be used for level 1 and 2 headings.
+---
 
-Paragraphs are separated by a blank line. Avoid indenting unless inside lists or code blocks.
+## **Summary**
+Motivated software developer with a strong academic foundation in **Video Game Simulation & Development**, **Computer Science**, and **Cybersecurity**. Experienced in building full‑stack applications, secure systems, and interactive software. Passionate about combining development, security, and problem‑solving to create reliable, scalable, and user‑focused solutions.
 
-Line breaks can be made by ending a line with two spaces or using <br>.
+---
 
-Text emphasis:
+## **Core Skills**
+- **Software Development:** Java, C#, Python, JavaScript, C++, .NET, REST APIs  
+- **Cybersecurity:** Secure coding, vulnerability assessment, digital forensics, Linux administration  
+- **Game Development:** Gameplay systems, 3D modeling, engine fundamentals, AI in games  
+- **Web Development:** React, Angular, HTML/CSS/JS, Bootstrap, Tailwind  
+- **Databases:** SQL, database design, optimization  
+- **Tools & Practices:** Git, Agile/Scrum, CI/CD, Docker, Cloud fundamentals  
+- **Other:** Problem solving, critical thinking, cross‑team collaboration  
+- **Languages:** English & Spanish  
 
-Italic: *text* or _text_
+---
 
-Bold: **text** or __text__
+## **Education**
 
-Bold Italic: ***text***
+### **Associate of Applied Science — Cybersecurity**  
+**Texas State Technical College — Harlingen, TX**  
+*Expected December 2026*  
+Key Coursework: Secure Linux Administration, Digital Forensics, Networking Technologies, Virtualization, TCP/IP, Server Administration
 
-Blockquotes start with > and can be nested with multiple >:
+### **Bachelor of Science — Computer Science**  
+**University of Texas at Rio Grande Valley — Brownsville, TX**  
+*Graduated December 2021*  
+Focus Areas: Software Engineering, Algorithms, Machine Learning, Databases, Computer Architecture, Networks, OOP (Java/Python)
 
-> This is a quote
->> Nested quote
-Copy
-Lists:
+### **Associate of Applied Science — Video Game Simulation & Programming**  
+**Texas State Technical College — Harlingen, TX**  
+*Graduated May 2015*  
+Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multiplayer fundamentals
 
-Unordered: - item, * item, or + item
+---
 
-Ordered:
+## **Technical Projects**
 
-1. First
-2. Second
-Copy
-Nested lists are indented by four spaces.
+### **Social Media Blog API (Java | REST | SQL | Azure)**
+- Built a full‑stack social platform with authentication, posting, commenting, and CRUD operations  
+- Designed and optimized SQL database for scalability  
+- Implemented RESTful API endpoints and integrated with a responsive UI  
 
-Code:
+### **TranslaGenix — Multilingual Translation Platform (.NET | Angular | APIs)**
+- Developed a translation app supporting text, image, speech, and file input  
+- Integrated external APIs for multilingual processing  
+- Implemented Okta 2FA and improved accessibility and UI/UX  
 
-Inline: `code`
+### **Restaurant Reviewer Web App (C# | ASP.NET | Docker | SQL)**
+- Created a rating and review system with structured database design  
+- Built front‑end and back‑end APIs for seamless user experience  
+- Containerized components using Docker for consistent deployment  
 
-Block:
+---
 
-```python
-print("Hello, Markdown!")
-```
-Copy
-Links:
+## **Relevant Experience**
 
-[Link text](https://example.com "Optional title")
-<https://example.com>
-Copy
-Reference-style links separate the URL definition:
+### **Java Software Developer — Revature**  
+*May 2023 – September 2023*  
+- Developed REST APIs, backend services, and database‑driven features  
+- Applied Agile methodologies, version control, and collaborative development  
+- Strengthened software engineering fundamentals through real‑world projects  
 
-[Example][1]
-[1]: https://example.com "Title"
-Copy
-Images:
+### **DevOps Engineer — Revature**  
+*May 2022 – August 2022*  
+- Built full‑stack applications using .NET, Angular, and Azure SQL  
+- Implemented CI/CD practices and containerized deployments  
+- Integrated external APIs for text, image, and speech processing  
 
-![Alt text](image.jpg "Optional title")
-Copy
-To make an image a link:
+### **Web Developer & Designer — UTRGV**  
+*August 2021 – December 2021*  
+- Designed and maintained university web pages using HTML, CSS, JavaScript  
+- Improved usability, accessibility, and site performance  
+- Created digital assets and interactive features to support branding  
 
-[![Alt text](image.jpg)](https://example.com)
-Copy
-Horizontal rules: ---, ***, or ___ on a line by themselves.
+---
 
-Escaping characters: Use \ before special characters like *, _, #.
+## **Clubs & Activities**
+### **Cyber Security Club — Treasurer**
+- Managed budgeting, event coordination, and team operations  
+- Participated in hands‑on cybersecurity labs and training  
+- Competed in the **National Cyber League (NCL)**, solving challenges in forensics, vulnerability analysis, and incident response  
 
-HTML in Markdown: Many processors allow inline HTML for advanced formatting, but compatibility varies.
+---
 
-Markdown’s simplicity makes it ideal for clean, readable source text while still producing rich HTML output.
+## **Additional Skills**
+- Linux/Unix programming  
+- PC building & hardware troubleshooting  
+- Strong adaptability and communication  
