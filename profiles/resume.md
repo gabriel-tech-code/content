@@ -1,4 +1,3 @@
-
 # Gabriel P. Garcia Jr
 Software Developer | Cybersecurity Student
 San Benito, TX - LinkedIn: [Gabriel's LinkedIn]( https://www.linkedin.com/in/gabriel-garcia-tech)  - GitHub: [Gabriel Tech and Code](https://github.com/gabriel-tech-code)
