@@ -14,6 +14,11 @@ Motivated software developer with a strong academic foundation in **Video Game S
 - **Other:** Problem solving, critical thinking, cross‑team collaboration  
 - **Languages:** English & Spanish  
 
+### **Additional Skills**
+- Linux/Unix programming  
+- PC building & hardware troubleshooting  
+- Strong adaptability and communication  
+
 ---
 
 ## **Education**
@@ -81,12 +86,3 @@ Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multipl
 - Managed budgeting, event coordination, and team operations  
 - Participated in hands‑on cybersecurity labs and training  
 - Competed in the **National Cyber League (NCL)**, solving challenges in forensics, vulnerability analysis, and incident response 
-
----
-
-## **Additional Skills**
-- Linux/Unix programming  
-- PC building & hardware troubleshooting  
-- Strong adaptability and communication  
-
----
