@@ -6,18 +6,18 @@ Motivated software developer with a strong academic foundation in **Video Game S
 
 ## **Core Skills**
 - **Software Development:** Java, C#, Python, JavaScript, C++, .NET, REST APIs  
-- **Cybersecurity:** Secure coding, vulnerability assessment, digital forensics, Linux administration  
-- **Game Development:** Gameplay systems, 3D modeling, engine fundamentals, AI in games  
+- **Cybersecurity:** Secure Coding, Vulnerability Assessment, Digital Forensics, Linux Administration  
+- **Game Development:** Gameplay Systems, 3D Modeling, Engine Fundamentals, AI in Games  
 - **Web Development:** React, Angular, HTML/CSS/JS, Bootstrap, Tailwind  
-- **Databases:** SQL, database design, optimization  
+- **Databases:** SQL, Database Design, Optimization  
 - **Tools & Practices:** Git, Agile/Scrum, CI/CD, Docker, Cloud fundamentals  
-- **Other:** Problem solving, critical thinking, cross‑team collaboration  
+- **Other:** Problem Solving, Critical Thinking, Cross‑team Collaboration  
 - **Languages:** English & Spanish  
 
 ### **Additional Skills**
-- Linux/Unix programming  
-- PC building & hardware troubleshooting  
-- Strong adaptability and communication  
+- Linux/Unix Programming  
+- PC Building & Hardware Troubleshooting  
+- Strong Adaptability and Communication  
 
 ---
 
@@ -25,17 +25,17 @@ Motivated software developer with a strong academic foundation in **Video Game S
 
 ### **Associate of Applied Science — Cybersecurity**  
 **Texas State Technical College — Harlingen, TX**  
-*Expected December 2026*  
+*December 2026*  
 Key Coursework: Secure Linux Administration, Digital Forensics, Networking Technologies, Virtualization, TCP/IP, Server Administration
 
 ### **Bachelor of Science — Computer Science**  
 **University of Texas at Rio Grande Valley — Brownsville, TX**  
-*Graduated December 2021*  
+*December 2021*  
 Focus Areas: Software Engineering, Algorithms, Machine Learning, Databases, Computer Architecture, Networks, OOP (Java/Python)
 
 ### **Associate of Applied Science — Video Game Simulation & Programming**  
 **Texas State Technical College — Harlingen, TX**  
-*Graduated May 2015*  
+*May 2015*  
 Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multiplayer fundamentals
 
 ---
@@ -61,19 +61,22 @@ Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multipl
 
 ## **Relevant Experience**
 
-### **Java Software Developer — Revature**  
+### **Java Software Developer**    
+**Revature — San Benito, TX**
 *May 2023 – September 2023*  
 - Developed REST APIs, backend services, and database‑driven features  
 - Applied Agile methodologies, version control, and collaborative development  
 - Strengthened software engineering fundamentals through real‑world projects  
 
-### **DevOps Engineer — Revature**  
+### **DevOps Engineer**  
+**Revature — San Benito, TX**
 *May 2022 – August 2022*  
 - Built full‑stack applications using .NET, Angular, and Azure SQL  
 - Implemented CI/CD practices and containerized deployments  
 - Integrated external APIs for text, image, and speech processing  
 
-### **Web Developer & Designer — UTRGV**  
+### **Web Developer & Designer — UTRGV** 
+**University of Texas at Rio Grande Valley — Brownsville, TX**  
 *August 2021 – December 2021*  
 - Designed and maintained university web pages using HTML, CSS, JavaScript  
 - Improved usability, accessibility, and site performance  
