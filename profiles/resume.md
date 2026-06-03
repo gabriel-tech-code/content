@@ -62,14 +62,14 @@ Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multipl
 ## **Relevant Experience**
 
 ### **Java Software Developer**    
-**Revature — San Benito, TX**
+**Revature — San Benito, TX**  
 *May 2023 – September 2023*  
 - Developed REST APIs, backend services, and database‑driven features  
 - Applied Agile methodologies, version control, and collaborative development  
 - Strengthened software engineering fundamentals through real‑world projects  
 
 ### **DevOps Engineer**  
-**Revature — San Benito, TX**
+**Revature — San Benito, TX**  
 *May 2022 – August 2022*  
 - Built full‑stack applications using .NET, Angular, and Azure SQL  
 - Implemented CI/CD practices and containerized deployments  
