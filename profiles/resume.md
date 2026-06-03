@@ -80,7 +80,7 @@ Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multipl
 ### **Cyber Security Club — Treasurer**
 - Managed budgeting, event coordination, and team operations  
 - Participated in hands‑on cybersecurity labs and training  
-- Competed in the **National Cyber League (NCL)**, solving challenges in forensics, vulnerability analysis, and incident response  
+- Competed in the **National Cyber League (NCL)**, solving challenges in forensics, vulnerability analysis, and incident response 
 
 ---
 
@@ -88,3 +88,5 @@ Focus Areas: C#/C++ programming, 3D modeling, game engines, AI in games, multipl
 - Linux/Unix programming  
 - PC building & hardware troubleshooting  
 - Strong adaptability and communication  
+
+---
