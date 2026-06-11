@@ -1,3 +1,2 @@
 ### Self‑Designed Projects
 Outside of school and work, I enjoy creating my own projects to explore new ideas, experiment with technologies, and sharpen my development skills. These self‑driven builds — including this portfolio website — reflect my curiosity, creativity, and commitment to continuous learning. Each project represents something I wanted to understand more deeply, whether it’s web development, game mechanics, automation, or security concepts.  
-Below are some of the personal projects I’ve designed, built, and refined over time.
