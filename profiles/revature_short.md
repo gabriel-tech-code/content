@@ -1,0 +1,2 @@
+### Work Experience — Revature
+During my time at Revature, I worked as a software developer on several full‑stack and cloud‑based projects. I collaborated with a team to build applications using C#, .NET, SQL, Angular, and Azure services. My work focused on backend development, API design, database integration, and improving application reliability through testing and containerization. These projects strengthened my skills in software engineering, cloud deployment, and modern development workflows.

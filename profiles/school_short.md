@@ -1,0 +1,2 @@
+### Academic Background
+My academic journey spans three connected disciplines: **Video Game Simulation & Development**, **Computer Science**, and **Cybersecurity**. Together, these fields shaped how I approach problem‑solving, system design, and interactive software. Through hands‑on coursework and project‑based learning, I gained experience in programming, game engine fundamentals, software engineering, secure system practices, and real‑world cybersecurity concepts.  
